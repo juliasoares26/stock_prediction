@@ -1,0 +1,48 @@
+Data: 2026-03-21 19:01:07
+Período: 2020-01-02 00:00:00 → 2026-01-16 05:00:00
+Ativos: 19
+Observações: 4596
+GARCH: gjr
+PIT: empirical
+max_trees: 3
+min_tau: 0.05
+
+ Confidence       VaR        ES  ES_VaR_Ratio
+      0.950 -0.016238 -0.021321      1.313043
+      0.990 -0.024777 -0.028868      1.165114
+      0.995 -0.027989 -0.031375      1.120976
+
+    Asset   Weight  Marginal_VaR  Component_VaR  Contribution_%
+ RADL3.SA 0.052632      0.126340       0.006649       26.837085
+SANB11.SA 0.052632      0.125949       0.006629       26.754060
+ SUZB3.SA 0.052632      0.120265       0.006330       25.546615
+ RENT3.SA 0.052632      0.099210       0.005222       21.074049
+ WEGE3.SA 0.052632      0.093028       0.004896       19.761005
+ PCAR3.SA 0.052632      0.085931       0.004523       18.253316
+ B3SA3.SA 0.052632      0.080874       0.004257       17.179186
+ RAIL3.SA 0.052632      0.076885       0.004047       16.331831
+ VALE3.SA 0.052632      0.068297       0.003595       14.507630
+ GGBR4.SA 0.052632      0.066318       0.003490       14.087161
+
+      Method       VaR        ES  ES_VaR_Ratio  VaR_Diff_%  ES_Diff_%
+  Copula-EVT -0.024777 -0.028868      1.165114  -66.784571 -67.389562
+Independence -0.014856 -0.017246      1.160903    0.000000   0.000000
+
+ years  estimate  ci_lower  ci_upper    method
+     1   -0.0054   -0.0067   -0.0049 copula_mc
+     5   -0.0092   -0.0198   -0.0166 copula_mc
+    10   -0.0104   -0.0238   -0.0211 copula_mc
+    20   -0.0117   -0.0285   -0.0237 copula_mc
+    50   -0.0130   -0.0380   -0.0277 copula_mc
+
+             scenario_name scenario_type  portfolio_loss_pct  cvar_1pct
+       COVID-19 (Mar 2020)    historical              0.1592    -0.0395
+    Crash Setor Financeiro  hypothetical              0.1258    -0.1690
+      Crash de Commodities  hypothetical              0.1002    -0.1343
+      Black Swan Sistêmico  hypothetical              0.0959    -0.1558
+Correlação Stress (ρ=0.95)   correlation              0.0521    -0.0931
+Correlação Stress (ρ=0.85)   correlation              0.0500    -0.0923
+ Correlação Stress (ρ=0.7)   correlation              0.0468    -0.0865
+Desvalorização Extrema BRL  hypothetical              0.0182    -0.0489
+   EVT P0.01% (1-em-10000)           evt              0.0168    -0.0120
+    EVT P0.10% (1-em-1000)           evt              0.0141    -0.0120

@@ -1,0 +1,23 @@
+download realizado em: 2026-01-18 22:23:02
+Total de ativos: 19
+
+Ativos baixados:
+ - ITUB4.SA        Itaú                      (1505 registros)
+ - BBAS3.SA        Banco do Brasil           (1505 registros)
+ - BBDC4.SA        Bradesco                  (1505 registros)
+ - B3SA3.SA        B3                        (1505 registros)
+ - SANB11.SA       Santander Brasil          (1505 registros)
+ - PETR4.SA        Petrobras                 (1505 registros)
+ - VALE3.SA        Vale                      (1505 registros)
+ - SUZB3.SA        Suzano                    (1505 registros)
+ - GGBR4.SA        Gerdau                    (1505 registros)
+ - TAEE11.SA       Taesa                     (1505 registros)
+ - CMIG4.SA        Cemig                     (1505 registros)
+ - EGIE3.SA        Engie                     (1505 registros)
+ - ABEV3.SA        Ambev                     (1505 registros)
+ - RADL3.SA        Raia Drogasil             (1505 registros)
+ - LREN3.SA        Renner                    (1505 registros)
+ - PCAR3.SA        Pão de Açúcar             (1505 registros)
+ - WEGE3.SA        WEG                       (1505 registros)
+ - RENT3.SA        localiza                  (1505 registros)
+ - RAIL3.SA        Rumo Logística            (1505 registros)

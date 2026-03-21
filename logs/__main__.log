@@ -1,0 +1,5 @@
+2026-01-08 10:52:29 - __main__ - INFO     - <module>:176 - mensagem de info
+2026-01-08 10:52:29 - __main__ - WARNING  - <module>:177 - mensagem de warning
+2026-01-08 10:52:29 - __main__ - ERROR    - <module>:178 - mensagem de erro
+2026-01-08 10:52:29 - __main__ - INFO     - wrapper:110 - iniciando funcao_teste
+2026-01-08 10:52:30 - __main__ - INFO     - wrapper:115 - funcao_teste concluído em 1.00s

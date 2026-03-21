@@ -1,0 +1,16 @@
+período: 2020-01-01 00:00:00 até 2026-01-16 05:00:00
+ações brasileirasquantidade: {len(stocks.columns)}retorno médio anualizado: 2.63%volatilidade média anualizada: 16.91%sharpe ratio médio: 0.183séries estacionarias: 19/19top 5 ações por retornoPETR4.SA          11.63%CMIG4.SA           7.89%WEGE3.SA           7.45%GGBR4.SA           5.66%VALE3.SA           5.48%top 5 ações por sharpe ratioPETR4.SA          0.658TAEE11.SA         0.524CMIG4.SA          0.507WEGE3.SA          0.438VALE3.SA          0.332indices e benchmarksquantidade: 8
+retorno médio anualizado: 1.14%
+volatilidade média anualizada: 15.53%
+sharpe Ratio médio: 0.246
+séries estacionárias: 8/8
+
+Performance dos índices:
+  BRL=X           | Retorno:    1.69% | Vol:   8.39% | Sharpe:  0.201
+  ^BVSP           | Retorno:    3.67% | Vol:  10.31% | Sharpe:  0.356
+  EWZ             | Retorno:    2.51% | Vol:  16.39% | Sharpe:  0.153
+  GLD             | Retorno:    6.33% | Vol:   8.26% | Sharpe:  0.766
+  SPY             | Retorno:    5.08% | Vol:   9.11% | Sharpe:  0.558
+  TLT             | Retorno:   -1.82% | Vol:   8.53% | Sharpe: -0.213
+  UUP             | Retorno:    1.13% | Vol:   3.72% | Sharpe:  0.304
+  ^VIX            | Retorno:   -9.50% | Vol:  59.53% | Sharpe: -0.160

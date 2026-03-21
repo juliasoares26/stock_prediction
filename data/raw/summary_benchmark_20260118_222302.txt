@@ -1,0 +1,12 @@
+download realizado em: 2026-01-18 22:23:02
+Total de ativos: 8
+
+Ativos baixados:
+ - SPY             S&P 500 ETF               (1519 registros)
+ - EWZ             iShares Brazil ETF        (1519 registros)
+ - GLD             Gold ETF                  (1519 registros)
+ - TLT             US Treasury 20Y           (1519 registros)
+ - UUP             US Dollar Index           (1519 registros)
+ - ^BVSP           Ibovespa                  (1505 registros)
+ - ^VIX            Volatility Index          (1519 registros)
+ - BRL=X           USD/BRL                   (1573 registros)

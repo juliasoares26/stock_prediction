@@ -1,0 +1,97 @@
+#Pacotes de Ciência de Dados
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+#Dados Financeiros
+yfinance>=0.2.28
+pandas-datareader>=0.10.0
+
+#Séries temporais e econometria
+arch>=6.2.0  #para modelos GARCH 
+statsmodels>=0.14.0
+hmmlearn>=0.3.0  #para hidden markov models
+pyflux>=0.4.17 #séries temporais
+
+#EVT
+extremes>= 0.0.2
+
+#Pacotes para copulas
+copulas>=0.9.0
+scipy>=1.10.0
+
+#Pacotes de machine learning
+torch>=2.0.0
+tensorflow>=2.13.0
+scikit-learn>=1.3.0
+xgboost>= 2.0.0
+lightgbm>=4.0.0
+
+#regime detection e clustering
+hmmlearn>=0.3.0
+
+#Otimização
+cvxpy>=1.3.0
+gurobipy>=10.0.0  
+scipy>=1.10.0
+
+#Pacotes para visualização de dados
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+dash>=2.14.0
+streamit>=1.28.0
+
+#testes estatísticos e validação
+statsmodel>=0.14.0
+pingouin>=0.5.3
+
+#Utilities
+tqdm>=4.65.0
+joblib>=1.3.0
+pyyaml>=6.0
+python-dotenv>=1.0.0
+python-dateutil>=2.8.0
+pytz>=2023.3
+requests>=2.31.0             # API calls (BCB, etc)
+joblib>=1.3.0                # Parallel processing
+numba>=0.58.0                # JIT compilation (speed up)
+
+#Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.0
+hypothesis>=6.88.0
+
+#Jupyter
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+notebook>=7.0.0
+ipython>=8.12.0
+jupyther>=1.0.0
+
+#Armazenamento de dados
+pyarrow>=12.0.0  #para parquet 
+tables>=3.8.0  #para HDF5
+openpyxl>=3.1.0
+fastparquet>2023.7.0
+
+#Logging 
+loguru>=0.7.0
+tqdm>=4.66.0
+colorlog>=6.7.0
+
+#formatação
+black>=23.7.0
+flake8>=6.1.0                # Linter
+mypy>=1.5.0                  # Type checking
+isort>=5.12.0                # Import sorting
+pylint>=2.17.0               # Code analysis
+
+#documentação
+sphinx>=7.2.0                # Documentation generator
+sphinx-rtd-theme>=1.3.0      # ReadTheDocs theme
+nbsphinx>=0.9.3              # Jupyter notebooks in docs
+
+
